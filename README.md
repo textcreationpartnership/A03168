@@ -35,11 +35,65 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A dialogue conteinyng the nomber in effect of all the prouerbes in the englishe tongue compacte in a
+
+1. The preface.
+
 #####Body#####
 
+1. The fyrſte parte.
+
+    _ ¶The fyrſt chapiter.
+
+    _ ¶The ſeconde chapiter.
+
+    _ ¶The thyrde chapiter.
+
+    _ ¶The fourth chapiter.
+
+    _ ¶The fyfte chapiter.
+
+    _ ¶The ſixt chapiter.
+
+    _ ¶The .vii. chapiter.
+
+    _ ¶The .viii. chapter.
+
+    _ ¶The nynthe chapiter.
+
+    _ ¶The tenth chapiter.
+
+    _ ¶The leuenth chapiter.
+
+    _ ¶The .xii. Chapiter.
+
+    _ The .xiii. chapiter.
+
+1. The ſeconde parte.
+
+    _ The fyrſt chapiter.
+
+    _ The ſeconde chapiter.
+
+    _ ¶The thyrde chapiter.
+
+    _ ¶The fourthe chapiter.
+
+    _ ¶ The fyfte chapiter.
+
+    _ The .vi. chapiter.
+
+    _ ¶The .vii chapiter.
+
+    _ ¶The eyght chapiter.
+
+    _ ¶The nynthe chapiter.
+
+    _ ¶The tenthe chapiter.
+
+    _ The leuenthe chapiter.
+
 #####Back#####
-A dialogue conteinyng the nomber in effect of all the prouerbes in the englishe tongue compacte in a
+¶IMPRINTED at London in Fleteſtrete by Thomas Berthelet prynter to the kynges hyghneſſe.Cum priuileg
 **Types of content**
 
   * There are 2568 **verse** lines!
